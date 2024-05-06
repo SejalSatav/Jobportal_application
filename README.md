@@ -4,8 +4,8 @@ The Job Portal Application is a web-based platform designed to connect job seeke
 
 ## Features
 # Employer Features
-2)Create and manage job postings
-3)View and manage job applications
+1)Create and manage job postings
+2)View and manage job applications
 
 # Job Seeker Features
 1) Register and create a job seeker profile
